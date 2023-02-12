@@ -1,0 +1,73 @@
+label{
+
+    
+    font-weight: 200;
+    text-shadow: 100px;
+    font-family: monospace;
+    font-size: xx-large;
+    border-color: black;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    
+
+}
+ h1{
+
+    background-color: aquamarine;
+    font-weight: 200;
+    text-shadow: 100px;
+    font-family: monospace;
+    font-size: xx-large;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+
+}
+
+textarea{
+
+border-color: black;
+border-width: 3px;
+background: aquamarine;
+border-radius: 5px;
+
+}
+
+ p{
+
+    background-color: aquamarine;
+    font-weight: 200;
+    text-shadow: 100px;
+    font-family: monospace;
+    font-size: xx-large;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    border-radius: 5px;
+
+}
+
+input{
+    border-color: black;
+    border-width: 3px;
+    background-color: aquamarine;
+    font-family: monospace;
+    color: rgb(24, 121, 88);
+    border-radius: 5px;
+}
+
+::placeholder{
+    color: black;
+}
+select{
+
+border-color: black;
+border-width: 3px;
+background:aquamarine;
+font-family: monospace;
+border-radius: 5px;
+
+
+}
+
